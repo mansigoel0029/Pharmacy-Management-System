@@ -9,4 +9,9 @@ The database has 4 tables :<br/>
 ## Functionalities 
 The first page is the login window where students enter their ID and password. In case of incorrect details, the user is prompted to re-enter. On successfully logging in, the user can see the list of medicines currently available at the pharmacy. The user can add medicines to the cart and delete them also. The search bar allows users to search medicine names by a partial or a full match. The price of the medicines is also displayed on the screen. On clicking the 'Buy' button, the user is prompted with a bill on the screen which displays the total amount due. Basic CRUD operations along with triggers are used to access the database. Some tables are also created and updated during runtime.
 
+## Files
+1. pharmacy.db is the database
+2. Database.py is the backend code
+3. Project-FrontEnd.py is the frontend GUI code
+
 This project is a good reference for students pursuing a basic Database Systems course. Such projects are often a part of these courses. 
